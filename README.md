@@ -2,7 +2,7 @@
 
 Dashboard de vendas de 2021 a 2023 com acompanhamento de meta, ranking de vendedores, comparação com o ano anterior e simulação de preço.
 
-**Arquivo:** [`Analise_de_Vendas.pbix`](Analise_de_Vendas.pbix) (abre no Power BI Desktop)
+**Arquivo:** [`Analise_de_Vendas.pbix`](Analise de Vendas.pbix) (abre no Power BI Desktop)
 
 ![Tela inicial](imagens/01-inicio.png)
 
